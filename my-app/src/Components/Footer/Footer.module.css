@@ -1,0 +1,43 @@
+.mainfooter{
+  background-color: black;
+  color: white;
+  height: 20%;
+  position: sticky;
+}
+.container{
+  max-width: 120rem;
+    margin: auto;
+    width: 92%;
+}
+.upper{
+  display: flex;
+  justify-content: space-between;
+}
+.row2{
+  width: 100%;
+  order: 1;
+}
+.lower{
+  padding: 4rem 0;
+    border-top: 1px solid #444;
+    color: #eee;
+    font-size: 1.2rem;
+    text-align: left;
+    text-align: center;
+    height: 30%;
+}
+.row1{
+  order: 2;
+}
+.social{
+  display: block;
+  margin-top: 2rem;
+  margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+    font-family: inherit;
+}
+.heading{
+  font-family: 'Pangolin', cursive;
+  font-weight: 800;
+}

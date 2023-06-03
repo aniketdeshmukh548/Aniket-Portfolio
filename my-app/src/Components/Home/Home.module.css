@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
+.home{
+    color: #0a0a0a;
+    background-position: center;
+}
+.body{
+    font-family: 'Roboto Slab', serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-size: 6rem;
+    font-weight: 200;
+    color: black;
+    text-align: center;
+}
+.para{
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+    font-size: 2.2rem;
+    line-height: 1.6;
+    color: rgb(43, 43, 43);
+}
+.button {
+    color: white;
+    background-color: rgb(139, 61, 255);
+    border: 1px solid rgb(106, 8, 197);
+    box-shadow: 0 5px 15px 0 rgba(0,0,0,.15);;
+    cursor: pointer;
+    border-radius: 4px;
+    padding: 1.5rem 8rem;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    font-weight: 700;
+    font-size: larger;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-bottom: 2rem;
+  }
+  .p{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-style: bold;
+    letter-spacing: 2px;
+    word-spacing: 3px;
+  }
+.resumelink{
+    text-decoration: none;
+}
